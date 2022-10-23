@@ -121,6 +121,12 @@ div.ellipsis {
 #gh-dark-mode-only:target .percent {
   color: #8b949e;
 }
+ 
+#footerTag {
+  font-size: 10px;
+  font-style: italic;
+  color: #4D4C4C;
+}
 </style>
 <g>
 <rect x="5" y="5" id="background" />
@@ -141,7 +147,7 @@ div.ellipsis {
 {{ lang_list }}
 
 </ul>
-
+<p id="footerTag">Includes Private Repositories contributions</p>
 </div>
 </foreignObject>
 </g>
