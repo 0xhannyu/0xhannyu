@@ -2,7 +2,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/690921175538204723.png" width="300"/>
 </div>
 <br>
-<p align="center">I'm a casual programmer and mostly work on projects involving my interests. My BackEnd Language experience mainly spans within Java, though I can dabble with GoLang and Python. Currently I'm doing FrontEnd, in SASS and HTML with Jekyll while learning JS gradually.</p>
+<p align="center">I'm a casual programmer and mostly work on projects involving my interests. My BackEnd Language experience mainly spans within Java. Currently playing around with FrontEnd, in CSS and HTML also trying out C#.</p>
 <br>
 <div align="center">
 <a href="https://0xhannyu.github.io/hannyu/">
