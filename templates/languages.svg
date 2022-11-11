@@ -125,7 +125,7 @@ div.ellipsis {
 #footerTag {
   font-size: 10px;
   font-style: italic;
-  color: #4D4C4C;
+  color: #777777;
 }
 </style>
 <g>
