@@ -2,7 +2,7 @@
   <img src="https://discord.c99.nl/widget/theme-4/690921175538204723.png" width="300"/>
 </div>
 <br>
-<p align="center">I'm a casual programmer and mostly work on projects involving my interests. My BackEnd Language experience mainly spans within Java. Currently playing around with FrontEnd, in CSS and HTML also trying out C#.</p>
+<p align="center">As a passionate programmer, I enjoy working on projects that align with my interests. I have intermediate experience in Java, and am actively expanding my skillset to include front-end development using CSS, HTML, and C#. Additionally, I also have a keen interest in Bash Scripting, Automation, and Game Development, which keeps me engaged and motivated.. In addition to my software skills, I have a strong interest in Hardware and Electronics.</p>
 <br>
 <div align="center">
 <a href="https://0xhannyu.github.io/hannyu/">
