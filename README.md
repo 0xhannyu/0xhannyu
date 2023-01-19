@@ -10,5 +10,5 @@
   <img align= "center" src="https://raw.githubusercontent.com/0xhannyu/0xhannyu/master/generated/overview.svg#gh-dark-mode-only"/>
 </a>
 <br><br>
-<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg">
+<img src="https://forthebadge.com/images/badges/works-on-my-machine.svg" width=200>
 </div>
